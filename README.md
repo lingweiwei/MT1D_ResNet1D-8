@@ -1,4 +1,4 @@
-Using deep learning techniques for one-dimensional magnetotelluric inversion
+Using deep learning technology for one-dimensional magnetotelluric inversion
 # 1 ResNet1D-18
 This is a MATLAB program that modifies the classical 18-layer residual neural network into a one-dimensional structure named: ResNet-18 for solving one-dimensional geomagnetic inversion problems.
 # 2 ResNet1D-8
