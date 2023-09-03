@@ -38,5 +38,4 @@ for i =1:5
        set(gca,'LineWidth',1)
     hold off
 end
-% legend('True Model','Predicted Data(ResNet1D-8 gaussian noise 0%) ','Predicted Data(ResNet1D-8 gaussian noise 1%)','Predicted Data(ResNet1D-8 gaussian noise 3%)','Predicted Data(ResNet1D-8 gaussian noise 5%)','Predicted Data(ResNet1D-8 gaussian noise 10%)')
 legend('True Model','Inversion result Without Noise','Inversion Result with 3% Noise','Inversion Result with 5% Noise','Inversion Result with 10% Noise');
